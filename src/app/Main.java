@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("My app for Users!");
-        System.out.println("Version 2.2");
+        System.out.println("Version 2.3");
         int c = add(a, b);
         System.out.println(c);
         int d = multiply(a, b);
@@ -16,6 +16,7 @@ public class Main {
         int f = divide(a, b);
         System.out.println(f);
     }
+
     private static int add(int a, int b) {
         return a + b;
     }
