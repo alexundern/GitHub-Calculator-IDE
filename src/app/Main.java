@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("My app for Users!");
-        System.out.println("Version 2.0");
+        System.out.println("Version 2.1");
         int a = 8;
         int b = 2;
         int c = add(a, b);
